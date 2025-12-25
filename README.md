@@ -31,6 +31,6 @@
 ---
 
 ### 📈 技术活跃度 (自动更新)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[yangtianyi890100]&show_icons=true&theme=vue-darkh
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[yangtianyi890100]&layout=compact&theme=vue-darkh
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[yangtianyi890100]&show_icons=true&theme=vue-darkh)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[yangtianyi890100]&layout=compact&theme=vue-darkh)
 
