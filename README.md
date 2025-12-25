@@ -1,16 +1,38 @@
-## Hi there 👋
+# 你好，我是 [你的名字] 👋
 
-<!--
-**yangtianyi890100/yangtianyi890100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 关于我
+- 🎓 **西交利物浦大学 (XJTLU)** 计算机科学专业在读本科生。
+- 🎯 目标方向：**基础架构 (Infrastructure)**、**分布式系统**、**高性能计算**。
+- 🛠️ 理念：用商科的视野看行业，用工科的逻辑写代码。致力于在顶级科研与工业实践中磨练底座技术。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗️ 正在进行与规划的项目 (2025)
+| 时间 | 组织/单位 | 角色 | 核心关注点 |
+| :--- | :--- | :--- | :--- |
+| **2025.01** | **清华大学** | 科研助理 (RA) | 传感器海量数据预处理与清洗 pipeline |
+| **即将开始** | **网易 (NetEase)** | 后端开发实习生 | 工业级基础架构、系统压测与性能优化 |
+| **即将开始** | **浙江大学** | 科研助理 (RA) | 分布式系统一致性协议研究 |
+| **即将开始** | **安恒信息** | 研发实习生 | 安全中间件与底层逻辑实现 |
+
+---
+
+### 🛠️ 技术栈
+- **编程语言:** Python, Java, C++ (正在深入), SQL
+- **工具与环境:** Git, Linux (Bash), Docker, LaTeX
+- **核心兴趣:** 分布式共识算法、大规模数据存储、系统性能调优
+
+---
+
+### 🔭 学习记录与产出
+- 💻 **正在进行:** 为清华课题组开发自动化数据清洗脚本。
+- 🌱 **正在学习:** 《CS144: 计算机网络》与《MIT 6.824: 分布式系统》基础。
+- 💬 交流建议: 欢迎与我讨论关于 **Infrastructure** 领域的任何底层细节。
+- 📫 联系方式: [你的邮箱地址] | [你的领英链接]
+
+---
+
+### 📈 技术活跃度 (自动更新)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[你的用户名]&show_icons=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[你的用户名]&layout=compact&theme=vue-dark)
+
