@@ -28,9 +28,4 @@
 - 💬 交流建议: 
 - 📫 联系方式: [你的邮箱地址] | [你的领英链接]
 
----
-
-### 📈 技术活跃度 (自动更新)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[yangtianyi890100]&show_icons=true&theme=vue-darkh)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[yangtianyi890100]&layout=compact&theme=vue-darkh)
 
