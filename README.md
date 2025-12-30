@@ -8,16 +8,22 @@
 
 ---
 
-### 🏗️ Pesearch
+### 🏗️ Experience
 | Start | End | Role | Keyword |
 | :--- | :--- | :--- | :--- |
 | **2026.02** | **2026.06** | Personal Project Developer | Java Program |
+
+
+
+### 🔬 Research
+| Start | End | Role | Keyword |
+| :--- | :--- | :--- | :--- |
 | **2025.12** | **2026.02** | Research Intern | Data Cleaning & Visualization |
 
 
 ---
 
-### 💻 Projects
+### 🎖️ Prize
 | Start | End | Role | Keyword |
 | :--- | :--- | :--- | :--- |
 | **2026.01** | **2026.02** | Team Leader | MCM/ICM |
