@@ -1,18 +1,31 @@
 # HI，I'm [Tianyi Yang] 👋
 
 ### 👨‍💻 About Me
-- 🎓 **Xi'an Jiaotong Liverpool University (XJTLU)** Information and Congputer Science (ICS) undergraduate student. 
+- 🎓 **Xi'an Jiaotong Liverpool University (XJTLU)** Information and Congputer Science (ICS) undergraduate. 
+- 🎓 **University of Liverpool (UoL)** Compuuter Science undergraduate.
 - 🎯 目标方向：**基础架构 (Infrastructure)**、**分布式系统**、**云原生**。
 - 🛠️ 理念：用商科的视野看行业，用工科的逻辑写代码。坚持实践学习效率大于刷题，致力在科研与工业实践中磨练底座技术。
 
 ---
 
-### 🏗️ Projects
-| Start | Deadline | Role | Keyword |
+### 🏗️ Pesearch
+| Start | End | Role | Keyword |
 | :--- | :--- | :--- | :--- |
-| **2025.12** | **2026.02** | Research Intern | Data Cleaning & Visualization |
-| **2026.01** | **2026.02** | Team Leader | MCM/ICM |
 | **2026.02** | **2026.06** | Personal Project Developer | Java Program |
+| **2025.12** | **2026.02** | Research Intern | Data Cleaning & Visualization |
+
+
+---
+
+### 💻 Projects
+| Start | End | Role | Keyword |
+| :--- | :--- | :--- | :--- |
+| **2026.01** | **2026.02** | Team Leader | MCM/ICM |
+| **2025.11** | **2025.11** | Team Leader | APMCM |
+
+
+
+
 
 ---
 
